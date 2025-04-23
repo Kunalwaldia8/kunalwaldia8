@@ -1,7 +1,7 @@
 <!-- Banner (You can upload a banner image to your repo and link it below) -->
-<p align="center">
+<!--<p align="center">
   <img src="https://github.com/Kunalwaldia8/Kunalwaldia8/blob/main/banner.png" alt="Kunal Waldia Banner" />
-</p>
+</p>-->
 
 # 👋 Hey there, I'm Kunal Waldia!
 
